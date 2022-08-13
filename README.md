@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/andrelucca99">
-  <img height="150em" left="0" src="https://github-readme-stats.vercel.app/api?username=andrelucca99&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=andrelucca99&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrelucca99&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
@@ -16,6 +16,6 @@
 ##
 
 <div> 
-  <a href=""><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:andrelucca99@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/andr%C3%A9-lucas-41a813157/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
