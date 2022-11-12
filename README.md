@@ -1,8 +1,8 @@
 ## Olá! Seja bem-vindo
 
-Me chamo André Lucas<br>
+<p>Me chamo André Lucas<br>
 Desenvolvedor Front-End.<br>
-Atualmente estudo desenvolvimento web na <a href="https://www.betrybe.com/" target="_blank">Trybe</a>
+Atualmente estudo desenvolvimento web na <a href="https://www.betrybe.com/" target="_blank">Trybe</a></p>
 
 ##
 
@@ -12,7 +12,7 @@ Atualmente estudo desenvolvimento web na <a href="https://www.betrybe.com/" targ
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrelucca99&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
-## stacks
+## Stacks
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Andre-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
