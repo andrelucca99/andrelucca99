@@ -1,7 +1,6 @@
 <h1>Olá, seja bem-vindo</h1>
 
-:man_beard: Me chamo André Lucas<br />
-:computer: Desenvolvedor Front-End.
+Me chamo André Lucas, Desenvolvedor Front-end :computer: como desenvolvedor sempre busco soluções para problemas do dia a dia que possam gerar um impacto positivo na vida das pessoas, sempre priorizando a inovação e a acessibilidade.
 
 <hr>
 
