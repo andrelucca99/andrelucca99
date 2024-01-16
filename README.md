@@ -1,4 +1,4 @@
-<h1>Olá, seja bem-vindo</h1>
+# Olá, seja bem-vindo
 
 Me chamo André Lucas, Desenvolvedor Front-end :computer: como desenvolvedor sempre busco soluções para problemas do dia a dia que possam gerar um impacto positivo na vida das pessoas, sempre priorizando a inovação e a acessibilidade.
 
