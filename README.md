@@ -1,9 +1,11 @@
-<h1 align="center">Olá, Bem vindo! Me chamo André 👋</h1>
+<div align="center">
+ <h1>Olá, Bem vindo! Me chamo André 👋</h1>
+ <img width="700px" src="https://camo.githubusercontent.com/67fc6fe69796a1433e92819310c117759475b5cba29dccedecd68a54e6f60fe6/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f313430305f6f70745f312f3831626234623136353638343031392e363430623630333864313333652e676966" />
+</div>
 
-<img width="100%" src="https://camo.githubusercontent.com/67fc6fe69796a1433e92819310c117759475b5cba29dccedecd68a54e6f60fe6/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f313430305f6f70745f312f3831626234623136353638343031392e363430623630333864313333652e676966" />
-
+## Sobre Mim
+- 🖥️ Desenvolvedor Front-end
 - :mortar_board: Formado em Desenvolvimento Web pela [Trybe](https://www.betrybe.com/)
-- 🖥️ Área desenvolvedor Front-end
 - 📚 Atualmente venho estudado Angular :computer: e UX Design :memo:
 
 ## Ferramentas e Tecnologias
