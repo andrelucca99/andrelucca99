@@ -3,7 +3,7 @@
 
 | Sobre Mim | Portfólio :rocket: |
 | --- | --- |
-| - 🖥️ Desenvolvedor Full-Stack <br> - :mortar_board: Formado em Desenvolvimento Web pela [Trybe](https://www.betrybe.com/) <br> - 📚 Atualmente venho estudado Node.js :computer: e UX Design :memo:| [<img width="500px" src="./assets/print.gif" />](https://new-portfolio-flame-nu.vercel.app/)|
+| - 🖥️ Desenvolvedor Full-Stack <br> - :mortar_board: Formado em Desenvolvimento Web pela [Trybe](https://www.betrybe.com/) <br> - 📚 Atualmente venho estudado C# :computer: e UX Design :memo:| [<img width="500px" src="./assets/print.gif" />](https://new-portfolio-flame-nu.vercel.app/)|
 
 ## Ferramentas e Tecnologias
 <div align="left">
