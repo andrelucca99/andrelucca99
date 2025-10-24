@@ -3,7 +3,7 @@
 
 | Sobre Mim | Portfólio :rocket: |
 | --- | --- |
-| <ul><li>🖥️ Desenvolvedor Full-Stack</li><li>:mortar_board: Formado em Desenvolvimento Web pela [Trybe](https://www.betrybe.com/)</li><li>📚 Atualmente venho estudando:<ul> - Engenharia de Software na [42 SP](https://www.42sp.org.br/)</ul></li></ul> | [<img width="500px" src="./assets/print.gif" />](https://new-portfolio-flame-nu.vercel.app/)|
+| <ul><li>🖥️ Desenvolvedor Web Full-Stack</li><li>:mortar_board: Formação em Desenvolvimento Web - [Trybe](https://www.betrybe.com/)</li><li>📚 Atualmente estudo:<ul> - Engenharia de Software na [42 SP](https://www.42sp.org.br/)</ul></li></ul> | [<img width="500px" src="./assets/print.gif" />](https://new-portfolio-flame-nu.vercel.app/)|
 
 ## Ferramentas e Tecnologias
 <div align="left">
